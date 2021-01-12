@@ -1,5 +1,5 @@
-# Installing Atom 
+# Installing Atom
 
- To install Atom text editor on your local machine, follow the steps given below.
+ To install Atom text editor on windows machine, follow the steps given below.
 
- 1. Go to https://atom.io.
+ 1. step one.
